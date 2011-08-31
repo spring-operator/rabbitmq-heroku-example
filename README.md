@@ -1,7 +1,3 @@
-Running locally
-===============
-
-    $ bundle install
-    $ bundle exec thin start -R config.ru
-
-
+This repo is obsolete.  Please see [this
+page](http://heroku.srs.rabbitmq.com/) for more information about the
+Heroku add-on and links to samples.
